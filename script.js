@@ -13,7 +13,6 @@ var age = 26;
 var isOk = true;
 //undefined data type
 var job,height;
-
 //print only variable
 console.log(firstName);
 
